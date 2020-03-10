@@ -1,0 +1,12 @@
+Bogra                   1    Adamdighi  
+                        2    Bogra Sadar  
+                        3    Dhunot  
+                        4    Dhubchanchia  
+                        5    Gabtali  
+                        6    Kahaloo  
+                        7    Nandigram  
+                        8    Sariakandi  
+                        9    Sherpur  
+                        10   Shibganj  
+                        11   Sonatola  
+                        12   Shajahanpur  

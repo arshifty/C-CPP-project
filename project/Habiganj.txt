@@ -1,0 +1,8 @@
+Habiganj               1    Ajmeriganj  
+                       2    Bahubal  
+                       3    Baniachang  
+                       4    Chunarughat  
+                       5    Habiganj Sadar  
+                       6    Lakhai  
+                       7    Madhabpur  
+                       8    Nabiganj    

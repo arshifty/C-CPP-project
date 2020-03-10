@@ -1,0 +1,13 @@
+Kishoreganj             1    Austogram  
+                        2    Bajitpur  
+                        3    Bhairab  
+                        4    Hosainpur  
+                        5    Itna  
+                        6    Karimganj  
+                        7    Katiadi  
+                        8    Kishoreganj Sadar  
+                        9    Kuliarchar  
+                        10   Mithamain  
+                        11   Nikli  
+                        12  Pakundia 
+                        13  Tarail 

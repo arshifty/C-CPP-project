@@ -1,0 +1,12 @@
+Tangail                 1    Bashail  
+                        2    Bhuapur  
+                        3    Delduar  
+                        4    Ghatail  
+                        5    Gopalpur  
+                        6    Kalihati  
+                        7    Mirzapur  
+                        8    Modhupur  
+                        9    Nagarpur  
+                        10   Shakhipur  
+                        11   Tangail Sadar  
+                        12   Dhanbari  

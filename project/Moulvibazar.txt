@@ -1,0 +1,7 @@
+Moulvibazar            1    Barlekha  
+                       2    Kamalganj  
+                       3    Kulaura  
+                       4    Moulvibazar Sadar 
+                       5    Rajnagar  
+                       6    Sreemongal  
+                       7    Juri     

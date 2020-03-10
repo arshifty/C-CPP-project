@@ -1,0 +1,8 @@
+Chandpur               1    Chandpur Sadar  
+                       2    Faridganj  
+                       3    Haimchar  
+                       4    Hajiganj  
+                       5    Kachua  
+                       6    Matlab (South)  
+                       7    Matlab (North)(Chengarchar)  
+                       8    Shahrasti     

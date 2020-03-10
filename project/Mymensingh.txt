@@ -1,0 +1,12 @@
+Mymensingh              1    Bhaluka  
+                        2    Dhubaura  
+                        3    Fulbaria 
+                        4    Fulpur  
+                        5    Goffargaon  
+                        6    Gouripur  
+                        7    Haluaghat  
+                        8    Iswarganj  
+                        9    Mymensingh Sadar  
+                        10   Muktagacha  
+                        11   Nandail  
+                        12   Trishal     

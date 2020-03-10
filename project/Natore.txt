@@ -1,0 +1,6 @@
+Natore                  1    Baghatipara 
+                        2    Baraigram  
+                        3    Gurudaspur  
+                        4    Lalpur  
+                        5    Natore Sadar  
+                        6    Singra     

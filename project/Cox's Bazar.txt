@@ -1,0 +1,8 @@
+Cox's Bazar            1    Chakoria  
+                       2    Cox's Bazar Sadar  
+                       3    Kutubdia  
+                       4    Moheshkhali  
+                       5    Pekua  
+                       6    Ramu  
+                       7    Teknaf  
+                       8    Ukhia

@@ -1,0 +1,7 @@
+Satkhira               1    Assasuni  
+                       2    Debhata  
+                       3    Kaliganj  
+                       4    Kolaroa  
+                       5    Satkhira Sadar  
+                       6    Shyamnagar  
+                       7    Tala 

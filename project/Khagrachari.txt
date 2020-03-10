@@ -1,0 +1,8 @@
+Khagrachari            1    Dighinala  
+                       2    Khagrachari Sadar  
+                       3    Laksmichari  
+                       4    Mohalchari  
+                       5    Manikchari  
+                       6    Matiranga  
+                       7    Panchari  
+                       8    Ramgor  

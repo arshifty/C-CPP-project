@@ -1,0 +1,7 @@
+Gaibandha              1    Fulchari  
+                       2    Gaibandha Sadar  
+                       3    Gobindaganj  
+                       4    Palashbari  
+                       5    Sadullapur  
+                       6    Shaghatta  
+                       7    Sundarganj    

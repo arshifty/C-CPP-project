@@ -1,0 +1,8 @@
+Rangpur                 1    Badarganj  
+                        2    Gangachara  
+                        3    Kaunia  
+                        4    Mithapukur  
+                        5    Pirgacha  
+                        6    Pirganj  
+                        7    Rangpur Sadar  
+                        8    Taraganj  

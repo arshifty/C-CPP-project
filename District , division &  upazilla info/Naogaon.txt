@@ -1,0 +1,11 @@
+Naogaon                 1    Atrai  
+                        2    Badalgachi  
+                        3    Dhamoirhat  
+                        4    Manda  
+                        5    Mahadebpur  
+                        6    Naogaon Sadar  
+                        7    Niamatpur  
+                        8    Patnitala  
+                        9    Porsha  
+                        10   Raninagar  
+                        11   Shapahar     

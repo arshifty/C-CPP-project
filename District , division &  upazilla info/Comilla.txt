@@ -1,0 +1,16 @@
+Comilla                1    Barura  
+                       2    Brahmanpara  
+                       3    Burichang  
+                       4    Chandina  
+                       5    Chowddagram  
+                       6    Comilla Sadar 
+                       7    Daudkandi  
+                       8    Debiduar  
+                       9    Homna  
+                       10   Laksam  
+                       11   Meghna  
+                       12   Muradnagar  
+                       13   Nangolkot  
+                       14   Titas  
+                       15   Monoharganj  
+                       16   Comilla Sadar South   

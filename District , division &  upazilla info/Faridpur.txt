@@ -1,0 +1,9 @@
+Faridpur                1    Alfadanga  
+                        2    Bhanga  
+                        3    Boalmari  
+                        4    Char Bhadrasan  
+                        5    Faridpur Sadar  
+                        6    Madhukhali  
+                        7    Nagarkanda  
+                        8    Sadarpur  
+                        9    Saltha  

@@ -1,0 +1,5 @@
+Laksmipur              1    Laksmipur Sadar  
+                       2    Ramgati  
+                       3    Ramganj  
+                       4    Raipur  
+                       5    Kamalnagar 

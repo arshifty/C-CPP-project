@@ -1,0 +1,9 @@
+Rajshahi                1    Bagha  
+                        2    Bagmara  
+                        3    Charghat  
+                        4    Durgapur  
+                        5    Godagari  
+                        6    Mohanpur  
+                        7    Paba  
+                        8    Putia 
+                        9    Tanore    

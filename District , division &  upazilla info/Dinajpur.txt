@@ -1,0 +1,13 @@
+Dinajpur               1    Birampur  
+                       2    Birganj  
+                       3    Birol  
+                       4    Bochaganj  
+                       5    Chirirbandar  
+                       6    Dinajpur Sadar  
+                       7    Phulbari  
+                       8    Ghoraghat  
+                       9    Hakimpur  
+                       10   Kaharole 
+                       11   Khanshama  
+                       12   Nawabganj  
+                       13   Parbatipur 

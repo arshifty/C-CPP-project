@@ -1,0 +1,7 @@
+Manikganj               1    Daulatpur  
+                        2    Ghior  
+                        3    Harirampur  
+                        4    Manikganj Sadar  
+                        5    Saturia  
+                        6    Shibalaya  
+                        7    Singair     

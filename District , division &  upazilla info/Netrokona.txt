@@ -1,0 +1,8 @@
+Netrokona               1    Atpara  
+                        2    Barhatta  
+                        3    Durgapur  
+                        4    Kalmakanda  
+                        5    Kendua  
+                        6    Khaliajuri  
+                        7    Madan  
+                        8    Mohanganj

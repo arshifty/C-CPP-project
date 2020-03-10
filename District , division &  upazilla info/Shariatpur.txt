@@ -1,0 +1,6 @@
+Shariatpur              1    Bhedarganj  
+                        2    Damudiya  
+                        3    Gosairhat  
+                        4    Zajira  
+                        5    Naria  
+                        6    Shariatpur Sadar 

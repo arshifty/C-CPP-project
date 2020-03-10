@@ -1,0 +1,4 @@
+Magura                 1    Magura Sadar  
+                       2    Mohammadpur  
+                       3    Shalikha  
+                       4    Sreepur    

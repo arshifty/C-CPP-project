@@ -1,0 +1,14 @@
+Chittagong             1    Anwara  
+                       2    Banshkhali  
+                       3    Boalkhali  
+                       4    Chandanaish  
+                       5    Fatikchari  
+                       6    Hathazari  
+                       7    Lohagara  
+                       8    Mirsarai  
+                       9    Patiya  
+                       10   Rangunia  
+                       11   Raujan  
+                       12   Sandwip  
+                       13   Satkania  
+                       14   Sitakundu  

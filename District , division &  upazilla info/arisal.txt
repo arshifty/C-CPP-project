@@ -1,0 +1,10 @@
+Barisal                1    Agailjhara  
+                       2    Babuganj  
+                       3    Bakerganj  
+                       4    Banaripara  
+                       5    Barisal Sadar  
+                       6    Gournadi  
+                       7    Hijla  
+                       8    Mehendiganj  
+                       9    Muladi  
+                       10   Wazirpur     

@@ -1,0 +1,10 @@
+Rangamati              1    Baghaichari  
+                       2    Barkal  
+                       3    Belaichari  
+                       4    Jurachari  
+                       5    Kaptai  
+                       6    Kawkhali  
+                       7    Langadu  
+                       8    Naniarchar  
+                       9    Rajasthali  
+                       10   Rangamati Sadar 
